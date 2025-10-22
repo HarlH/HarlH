@@ -13,18 +13,18 @@ My work centers on developing robust models and generating clear insights from c
 * **Key Insight:** Identified MRT proximity and convenience store access as key price drivers.
 
 ### [Classification of Pulsar Stars](https://github.com/HarlH/Classification-of-Pulsar-Stars)
-*Processed the HTRU2 dataset ($\sim 17\text{k}$ observations) to classify pulsar stars using **Random Forest** and **SVM** models in Python.
-*Optimized performance through **cross-validation**, **hyperparameter tuning**, and **feature engineering**.
-***Result:** Achieved **ROC-AUC > 0.95**, with kurtosis and skewness identified as key discriminative features.
+* Processed the HTRU2 dataset ($\sim 17\text{k}$ observations) to classify pulsar stars using **Random Forest** and **SVM** models in Python.
+* Optimized performance through **cross-validation**, **hyperparameter tuning**, and **feature engineering**.
+* **Result:** Achieved **ROC-AUC > 0.95**, with kurtosis and skewness identified as key discriminative features.
 
 ### [VPD Crime Data Analysis](https://github.com/HarlH/VPD-Crime-Data-Analysis)
-*Analyzed **theft crime trends** before and after COVID-19 using R[cite: 15, 16].
-*Conducted **hypothesis testing** and constructed **confidence intervals** to assess changes in crime proportions.
-*Built clear and impactful **data visualizations** to communicate temporal trends and policy implications.
+* Analyzed **theft crime trends** before and after COVID-19 using R[cite: 15, 16].
+* Conducted **hypothesis testing** and constructed **confidence intervals** to assess changes in crime proportions.
+* Built clear and impactful **data visualizations** to communicate temporal trends and policy implications.
 
 ### [Dictionary Application](https://github.com/HarlH/Dictionary-Application)
-*Developed a **Java-based client-server dictionary application** using the DICT protocol.
-*Demonstrated strong understanding of **socket programming**, **multi-threading**, and client-server architecture.
+* Developed a **Java-based client-server dictionary application** using the DICT protocol.
+* Demonstrated strong understanding of **socket programming**, **multi-threading**, and client-server architecture.
 
 ---
 ## Skills & Technologies
@@ -40,8 +40,8 @@ My work centers on developing robust models and generating clear insights from c
 ## Education & Recognition
 
 * **University of British Columbia** (UBC)
-    *Bachelor of Science: Combined Major in Computer Science and Statistics (Expected May 2025) 
-    ***Award:** Outstanding International Student Award (OIS), 2020
+    * Bachelor of Science: Combined Major in Computer Science and Statistics (Expected May 2025) 
+    * **Award:** Outstanding International Student Award (OIS), 2020
 
 ---
 ## Get In Touch
