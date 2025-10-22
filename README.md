@@ -1,8 +1,56 @@
-- 👋 Hi, I’m @HarlH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I'm Ngoc Bao Chan Le 👋
+
+I'm a **University of British Columbia** graduate ('2025') with a Combined Major in **Computer Science and Statistics**. [cite_start]I am a data-driven and analytical thinker, passionate about applying **statistical learning** and **programming expertise** to real-world problems in **data science** and **AI**[cite: 4, 5]. [cite_start]My focus is on **data analysis, machine learning, and predictive modeling**[cite: 4].
+
+---
+## Featured Projects & Open-Source
+
+My work centers on developing robust models and generating clear insights from complex datasets.
+
+### [Property Valuation Analysis](https://github.com/HarlH/Real-Estate-Valuation)
+* [cite_start]Developed **regression models** using R to predict real estate prices from 414 property sales from Taipei & New Taipei City[cite: 9, 10].
+* [cite_start]Achieved an **adjusted R² of 0.737**, explaining 74% of the variance, by performing feature engineering with transformations (log price, quadratic age, $\sqrt{\text{MRT distance}}$)[cite: 11, 12].
+* [cite_start]**Key Insight:** Identified MRT proximity and convenience store access as key price drivers[cite: 13].
+
+### [Classification of Pulsar Stars](https://github.com/HarlH/Classification-of-Pulsar-Stars)
+* [cite_start]Processed the HTRU2 dataset ($\sim 17\text{k}$ observations) to classify pulsar stars using **Random Forest** and **SVM** models in Python[cite: 19, 20].
+* [cite_start]Optimized performance through **cross-validation**, **hyperparameter tuning**, and **feature engineering**[cite: 21].
+* [cite_start]**Result:** Achieved **ROC-AUC > 0.95**, with kurtosis and skewness identified as key discriminative features[cite: 22].
+
+### [VPD Crime Data Analysis](https://github.com/HarlH/VPD-Crime-Data-Analysis)
+* [cite_start]Analyzed **theft crime trends** before and after COVID-19 using R[cite: 15, 16].
+* [cite_start]Conducted **hypothesis testing** and constructed **confidence intervals** to assess changes in crime proportions[cite: 17].
+* [cite_start]Built clear and impactful **data visualizations** to communicate temporal trends and policy implications[cite: 18].
+
+### [Dictionary Application](https://github.com/HarlH/Dictionary-Application)
+* [cite_start]Developed a **Java-based client-server dictionary application** using the DICT protocol[cite: 23, 24].
+* [cite_start]Demonstrated strong understanding of **socket programming**, **multi-threading**, and client-server architecture[cite: 26].
+
+---
+## Skills & Technologies
+
+| Category | Key Skills |
+| :--- | :--- |
+| **Programming & Tools** | [cite_start]**Python**, **R**, **SQL**, Java, Git, Jupyter [cite: 28] |
+| [cite_start]**Data & ML Libraries** | scikit-learn, ggplot2, pandas, NumPy, matplotlib [cite: 28] |
+| **Machine Learning** | [cite_start]Regression, Classification, Model Selection, Cross-Validation, Feature Engineering [cite: 28] |
+| **Statistical Methods** | [cite_start]Hypothesis Testing, Confidence Intervals, Data Visualization, ANOVA [cite: 28] |
+
+---
+## Education & Recognition
+
+* **University of British Columbia** (UBC)
+    * [cite_start]Bachelor of Science: Combined Major in Computer Science and Statistics (Expected May 2025) [cite: 7]
+    * [cite_start]**Award:** Outstanding International Student Award (OIS), 2020 [cite: 7]
+
+---
+## Get In Touch
+
+| Contact Channel | Details |
+| :--- | :--- |
+| **Email** | [cite_start]**lengocbaochan@gmail.com** [cite: 2] |
+| **LinkedIn** | [cite_start]**[Ngoc Bao Chan Le](https://www.linkedin.com/in/ngoc-bao-chan-le-7757651b5/)** [cite: 2] |
+| **Location** | [cite_start]Vancouver, BC, Canada [cite: 2] |
 
 <!---
 HarlH/HarlH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
