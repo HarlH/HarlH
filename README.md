@@ -8,9 +8,9 @@ I'm a **University of British Columbia** graduate ('2025') with a Combined Major
 My work centers on developing robust models and generating clear insights from complex datasets.
 
 ### [Property Valuation Analysis](https://github.com/HarlH/Real-Estate-Valuation)
-*Developed **regression models** using R to predict real estate prices from 414 property sales from Taipei & New Taipei City.
-*Achieved an **adjusted R² of 0.737**, explaining 74% of the variance, by performing feature engineering with transformations (log price, quadratic age, $\sqrt{\text{MRT distance}}$).
-***Key Insight:** Identified MRT proximity and convenience store access as key price drivers.
+* Developed **regression models** using R to predict real estate prices from 414 property sales from Taipei & New Taipei City.
+* Achieved an **adjusted R² of 0.737**, explaining 74% of the variance, by performing feature engineering with transformations (log price, quadratic age, $\sqrt{\text{MRT distance}}$).
+* **Key Insight:** Identified MRT proximity and convenience store access as key price drivers.
 
 ### [Classification of Pulsar Stars](https://github.com/HarlH/Classification-of-Pulsar-Stars)
 *Processed the HTRU2 dataset ($\sim 17\text{k}$ observations) to classify pulsar stars using **Random Forest** and **SVM** models in Python.
