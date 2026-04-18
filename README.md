@@ -1,6 +1,6 @@
 ## Hi, I'm Ngoc Bao Chan Le 👋
 
-I'm a **University of British Columbia** graduate ('2025') with a Combined Major in **Computer Science and Statistics**.I am a data-driven and analytical thinker, passionate about applying **statistical learning** and **programming expertise** to real-world problems in **data science** and **AI**.My focus is on **data analysis, machine learning, and predictive modeling**.
+I'm a **University of British Columbia** graduate with a Combined Major in **Computer Science and Statistics**.I am a data-driven and analytical thinker, passionate about applying **statistical learning** and **programming expertise** to real-world problems in **data science** and **AI**.My focus is on **data analysis, machine learning, and predictive modeling**.
 
 ---
 ## Featured Projects & Open-Source
@@ -41,7 +41,7 @@ My work centers on developing robust models and generating clear insights from c
 
 * **University of British Columbia** (UBC)
     * Bachelor of Science: Combined Major in Computer Science and Statistics (Expected May 2025) 
-    * **Award:** Outstanding International Student Award (OIS), 2020
+    * **Award:** Outstanding International Student Award (OIS)
 
 ---
 ## Get In Touch
