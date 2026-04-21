@@ -1,11 +1,16 @@
 ## Hi, I'm Ngoc Bao Chan Le 👋
 
-I'm a **University of British Columbia** graduate with a Combined Major in **Computer Science and Statistics**.I am a data-driven and analytical thinker, passionate about applying **statistical learning** and **programming expertise** to real-world problems in **data science** and **AI**.My focus is on **data analysis, machine learning, and predictive modeling**.
+I'm a **University of British Columbia** graduate with a Combined Major in **Computer Science and Statistics**. I am a data-driven and analytical thinker, passionate about applying **statistical learning** and **programming expertise** to real-world problems in **data science** and **AI**.My focus is on **data analysis, machine learning, and predictive modeling**.
 
 ---
 ## Featured Projects & Open-Source
 
 My work centers on developing robust models and generating clear insights from complex datasets.
+
+### [Customer Churn Prediction and Analysis](https://github.com/HarlH/churn_telecom)
+
+
+### [Data Warehouse for Delivery Center](https://github.com/HarlH/data_warehouse_delivery)
 
 ### [Property Valuation Analysis](https://github.com/HarlH/Real-Estate-Valuation)
 * Developed **regression models** using R to predict real estate prices from 414 property sales from Taipei & New Taipei City.
@@ -22,22 +27,19 @@ My work centers on developing robust models and generating clear insights from c
 * Conducted **hypothesis testing** and constructed **confidence intervals** to assess changes in crime proportions.
 * Built clear and impactful **data visualizations** to communicate temporal trends and policy implications.
 
-### [Dictionary Application](https://github.com/HarlH/Dictionary-Application)
-* Developed a **Java-based client-server dictionary application** using the DICT protocol.
-* Demonstrated strong understanding of **socket programming**, **multi-threading**, and client-server architecture.
 
 ---
 ## Skills & Technologies
 
 | Category | Key Skills |
 | :--- | :--- |
-| **Programming & Tools** |**Python**, **R**, **SQL**, Java, Git, Jupyter  |
-|**Data & ML Libraries** | scikit-learn, ggplot2, pandas, NumPy, matplotlib  |
-| **Machine Learning** |Regression, Classification, Model Selection, Cross-Validation, Feature Engineering |
-| **Statistical Methods** |Hypothesis Testing, Confidence Intervals, Data Visualization, ANOVA |
+| **Programming Language** |**Python**, **R**, **SQL**, Java, C/C++  |
+| **Data & ML Libraries** | scikit-learn, ggplot2, pandas, NumPy, matplotlib, seaborn, dash, plotly  |
+| **Framework and Tools** | Power BI(DAX, Power Query), Tableau, MySQL, PostgreSQL, Git, Linux |
+| **ETL & Cloud** |: dbt, GCP, Databricks
 
 ---
-## Education & Recognition
+## Education 
 
 * **University of British Columbia** (UBC)
     * Bachelor of Science: Combined Major in Computer Science and Statistics (Expected May 2025) 
