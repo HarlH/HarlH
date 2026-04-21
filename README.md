@@ -36,7 +36,7 @@ My work centers on developing robust models and generating clear insights from c
 | **Programming Language** |**Python**, **R**, **SQL**, Java, C/C++  |
 | **Data & ML Libraries** | scikit-learn, ggplot2, pandas, NumPy, matplotlib, seaborn, dash, plotly  |
 | **Framework and Tools** | Power BI(DAX, Power Query), Tableau, MySQL, PostgreSQL, Git, Linux |
-| **ETL & Cloud** |: dbt, GCP, Databricks
+| **ETL & Cloud** | dbt, GCP, Databricks
 
 ---
 ## Education 
@@ -52,7 +52,6 @@ My work centers on developing robust models and generating clear insights from c
 | :--- | :--- |
 | **Email** |**lengocbaochan@gmail.com** |
 | **LinkedIn** |**[Ngoc Bao Chan Le](https://www.linkedin.com/in/ngoc-bao-chan-le-7757651b5/)**  |
-| **Location** |Vancouver, BC, Canada |
 
 <!---
 HarlH/HarlH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
