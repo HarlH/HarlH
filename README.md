@@ -3,6 +3,17 @@
 I'm a **University of British Columbia** graduate with a Combined Major in **Computer Science and Statistics**. I am a data-driven and analytical thinker, passionate about applying **statistical learning** and **programming expertise** to real-world problems in **data science** and **AI**.My focus is on **data analysis, machine learning, and predictive modeling**.
 
 ---
+
+## Skills & Technologies
+
+| Category | Key Skills |
+| :--- | :--- |
+| **Programming Language** |**Python**, **R**, **SQL**, Java, C/C++  |
+| **Data & ML Libraries** | scikit-learn, ggplot2, pandas, NumPy, matplotlib, seaborn, dash, plotly  |
+| **Framework and Tools** | Power BI(DAX, Power Query), Tableau, MySQL, PostgreSQL, Git, Linux |
+| **ETL & Cloud** | dbt, GCP, Databricks
+
+---
 ## Featured Projects & Open-Source
 
 My work centers on developing robust models and generating clear insights from complex datasets.
@@ -27,16 +38,6 @@ My work centers on developing robust models and generating clear insights from c
 * Conducted **hypothesis testing** and constructed **confidence intervals** to assess changes in crime proportions.
 * Built clear and impactful **data visualizations** to communicate temporal trends and policy implications.
 
-
----
-## Skills & Technologies
-
-| Category | Key Skills |
-| :--- | :--- |
-| **Programming Language** |**Python**, **R**, **SQL**, Java, C/C++  |
-| **Data & ML Libraries** | scikit-learn, ggplot2, pandas, NumPy, matplotlib, seaborn, dash, plotly  |
-| **Framework and Tools** | Power BI(DAX, Power Query), Tableau, MySQL, PostgreSQL, Git, Linux |
-| **ETL & Cloud** | dbt, GCP, Databricks
 
 ---
 ## Education 
